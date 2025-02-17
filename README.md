@@ -38,7 +38,7 @@ I enjoy learning new technologies and exploring tech.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,mongodb,mysql,html,css,js,nodejs,bootstrap,py,docker,,git,stackoverflow,jenkins&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,mongodb,mysql,html,css,js,nodejs,bootstrap,py,docker,git,stackoverflow,jenkins&perline=12" /></a>
 
 
 
