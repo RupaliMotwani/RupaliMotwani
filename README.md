@@ -11,15 +11,11 @@ I enjoy learning new technologies and exploring tech.
 - 🔭 I’m working on Building web apps using Java tech stack.
 - 🌱 I’m currently learning devops and exploring the Spring framework family.
 - 📫 Reach me @ rupalimotwani.rm@gmail.com
-- ⚡ Portfolio website : https://github.com/RupaliMotwani🧊 😸
+- ⚡ Portfolio website : http://github.com/RupaliMotwani🧊 😸
 
 <i><h3 align="left">Connect with me:</h3></i>
 <p align="left">
-<a href="https://www.instagram.com/indrajeet1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indrajeet1103" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/indrajeet-1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajeet1103" height="30" width="40" /></a>
-<a href="https://medium.com/@officio.indrajeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@officio.indrajeet" height="30" width="40" /></a>
-<a href="https://leetcode.com/indra47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="indra47" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" width="50" /></a>
+<a href="www.linkedin.com/in/rupalimotwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajeet1103" height="30" width="40" /></a>
 </p>
 
 
@@ -30,12 +26,7 @@ I enjoy learning new technologies and exploring tech.
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
